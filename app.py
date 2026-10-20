@@ -135,7 +135,7 @@ def main():
         layout="wide"
     )
     
-    st.title("👟 Processador de Excel - Dados de Sapatos")
+    st.title("👟 Processador de Excel - Dados de Sapatos T2")
     st.markdown("---")
     
     st.markdown("""
